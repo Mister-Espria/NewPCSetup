@@ -32,12 +32,14 @@ choco install logitechgaming
 choco install teamviewer
 choco install citrix-receiver
 choco install origin
-choco install speccy
-choco install partitionmasterfree
+
+
 
 # Install Utilities
 
 choco install windirstat 
+choco install speccy
+choco install partitionmasterfree
 
 ```
 
