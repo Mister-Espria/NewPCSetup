@@ -18,9 +18,28 @@ choco install GoogleChrome
 choco install putty
 choco install ccleaner
 choco install spotify
+choco install vlc
+choco install vscode
+choco install rainmeter
+choco install discord
+choco install audioswitcher
+choco install sharex
+choco install steam
+choco install cue
+choco install logitechgaming
+choco install teamviewer
 
 # Install Utilities
 
 choco install windirstat 
 
 ```
+
+Other software
+Steelseries engine 3
+GeForce Experience 
+Surveillance Station Client
+
+
+### Other handy Sites
+https://www.watch2gether.com
