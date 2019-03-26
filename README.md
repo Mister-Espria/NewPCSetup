@@ -32,6 +32,7 @@ choco install logitechgaming
 choco install teamviewer
 choco install citrix-receiver
 choco install origin
+choco install whatsapp
 
 
 
@@ -56,7 +57,8 @@ GeForce Experience
 Surveillance Station Client
 Microsoft Office
 
-
+### Other handy stuff
+heimdall dashboard
 
 ### Other handy Sites
 https://www.watch2gether.com
@@ -64,5 +66,10 @@ https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjk
 
 Netflix party
 https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
+
+###Want to look into
+https://www.invoiceninja.com/
+https://github.com/the-paperless-project/paperless
+
 
 
