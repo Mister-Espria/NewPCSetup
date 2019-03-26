@@ -53,8 +53,11 @@ For these Software:
 
 ## Other software
 Steelseries engine 3
+
 GeForce Experience 
+
 Surveillance Station Client
+
 Microsoft Office
 
 ### Other handy stuff
