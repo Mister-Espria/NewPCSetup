@@ -47,4 +47,7 @@ Microsoft Office
 https://www.watch2gether.com
 https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg
 
+Netflix party
+https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
+
 
