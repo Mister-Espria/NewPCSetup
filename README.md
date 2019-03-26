@@ -35,11 +35,16 @@ choco install windirstat
 
 ```
 
-Other software
+## Other software
 Steelseries engine 3
 GeForce Experience 
 Surveillance Station Client
+Microsoft Office
+
 
 
 ### Other handy Sites
 https://www.watch2gether.com
+https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg
+
+
