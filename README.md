@@ -25,15 +25,28 @@ choco install discord
 choco install audioswitcher
 choco install sharex
 choco install steam
+choco install uplay
+choco install epicgameslauncher
 choco install cue
 choco install logitechgaming
 choco install teamviewer
+choco install citrix-receiver
+choco install origin
+choco install speccy
+choco install partitionmasterfree
 
 # Install Utilities
 
 choco install windirstat 
 
 ```
+
+## Just-Install
+For these Software:
+
+
+
+
 
 ## Other software
 Steelseries engine 3
