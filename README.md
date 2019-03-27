@@ -18,6 +18,7 @@ choco feature enable -n=allowGlobalConfirmation
 # Install Applications
 
 choco install GoogleChrome
+choco install vivaldi
 choco install putty
 choco install ccleaner
 choco install spotify
