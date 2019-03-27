@@ -12,6 +12,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 ## Chocolatey apps install script
 ```
+#Make Chocolatey not ask for confirmation upon each install
+choco feature enable -n=allowGlobalConfirmation
+
 # Install Applications
 
 choco install GoogleChrome
@@ -41,6 +44,9 @@ choco install whatsapp
 choco install windirstat 
 choco install speccy
 choco install partitionmasterfree
+
+# Turn asking for confirmation back on
+choco feature disable -n=allowGlobalConfirmation
 
 ```
 
