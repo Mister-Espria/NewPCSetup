@@ -78,6 +78,10 @@ Netflix party
 https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
 
 
+#Vivaldi Stuff
+https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM
+
+
 ## Rainmeter Stuff
 Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
 Another gamelauncher https://github.com/Kapiainen/Lauhdutin
