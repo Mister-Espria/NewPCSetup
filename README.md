@@ -37,6 +37,7 @@ choco install teamviewer
 choco install citrix-receiver
 choco install origin
 choco install whatsapp
+choco install arduino
 
 
 
