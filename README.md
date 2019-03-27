@@ -76,9 +76,21 @@ https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjk
 Netflix party
 https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
 
+
+## Rainmeter Stuff
+Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
+Another gamelauncher https://github.com/Kapiainen/Lauhdutin
+Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
+Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
+
+
+
 ###Want to look into
 https://www.invoiceninja.com/
 https://github.com/the-paperless-project/paperless
+
+https://www.deviantart.com/bkp86/art/Vivaldi-Pure-Dark-Settings-and-Instructions-790793410
+
 
 
 
