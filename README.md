@@ -67,6 +67,11 @@ GeForce Experience
 Surveillance Station Client
 
 Microsoft Office
+PaleMoon
+Xlights64
+bunqdesktop
+battle.nett
+pdfsam
 
 ### Other handy stuff
 heimdall dashboard
@@ -94,8 +99,12 @@ Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
 ###Want to look into
 https://www.invoiceninja.com/
 https://github.com/the-paperless-project/paperless
+https://gitlab.com/mayan-edms/mayan-edms
 
 https://www.deviantart.com/bkp86/art/Vivaldi-Pure-Dark-Settings-and-Instructions-790793410
+
+esprfid
+Traefik
 
 
 
