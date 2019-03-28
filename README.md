@@ -99,7 +99,7 @@ https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpk
 
 #Vivaldi Stuff
 https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM
-
+vivaldi thumbs 221 x 171 pixels size.
 
 ## Rainmeter Stuff
 Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
