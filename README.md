@@ -58,6 +58,13 @@ For these Software:
 
 
 
+## chrome / vivaldi extensions
+
+Netflix party
+Adblock Plus
+Darkreader
+Share on watch2gether
+Lastpass
 
 
 ## Other software
