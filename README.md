@@ -38,6 +38,7 @@ choco install citrix-receiver
 choco install origin
 choco install whatsapp
 choco install arduino
+choco install adobereader
 
 
 
@@ -111,6 +112,42 @@ https://www.deviantart.com/bkp86/art/Vivaldi-Pure-Dark-Settings-and-Instructions
 esprfid
 Traefik
 
+
+
+
+## SEPERATE Chocolatey apps install script
+```
+#Make Chocolatey not ask for confirmation upon each install
+choco feature enable -n=allowGlobalConfirmation
+
+# Install Applications
+
+choco install GoogleChrome
+choco install vivaldi
+choco install putty
+choco install ccleaner
+choco install spotify
+choco install vlc
+choco install rainmeter
+choco install discord
+choco install steam
+choco install cue
+choco install logitechgaming
+choco install teamviewer
+choco install whatsapp
+
+
+
+
+# Install Utilities
+
+choco install windirstat 
+choco install speccy
+
+# Turn asking for confirmation back on
+choco feature disable -n=allowGlobalConfirmation
+
+```
 
 
 
