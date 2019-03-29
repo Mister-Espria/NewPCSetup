@@ -109,7 +109,13 @@ Another gamelauncher https://github.com/Kapiainen/Lauhdutin
 Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
 Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
 
+
 TranslucentTaskbar
+Nexus dock
+icons: 
+https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
+https://www.deviantart.com/vantler/art/Lumicons-662277185
+
 https://www.youtube.com/watch?v=2M81qFqdf6k
 https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
 https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750
