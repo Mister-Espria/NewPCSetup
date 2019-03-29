@@ -107,7 +107,7 @@ Another gamelauncher https://github.com/Kapiainen/Lauhdutin
 Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
 Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
 
-
+TranslucentTaskbar
 
 ###Want to look into
 https://www.invoiceninja.com/
