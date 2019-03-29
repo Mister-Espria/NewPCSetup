@@ -72,6 +72,8 @@ Steelseries engine 3
 
 GeForce Experience 
 
+EarTrumpet
+
 Surveillance Station Client
 
 Microsoft Office
@@ -109,6 +111,8 @@ Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
 
 TranslucentTaskbar
 https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
+https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750
+https://steamcommunity.com/sharedfiles/filedetails/?id=871596351
 
 
 ###Want to look into
