@@ -88,6 +88,7 @@ battle.nett
 
 pdfsam
 
+
 ### Other handy stuff
 heimdall dashboard
 
@@ -109,6 +110,8 @@ Another gamelauncher https://github.com/Kapiainen/Lauhdutin
 Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
 Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
 
+cpu/gpu temps https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-Update-1-1-749877799
+MsiAfterbruner
 
 TranslucentTaskbar
 Nexus dock
