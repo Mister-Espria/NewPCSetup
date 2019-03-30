@@ -115,6 +115,7 @@ Nexus dock
 icons: 
 https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
 https://www.deviantart.com/vantler/art/Lumicons-662277185
+https://www.deviantart.com/niivu/art/Numix-Circle-For-Windows-708567015
 
 https://www.youtube.com/watch?v=2M81qFqdf6k
 https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
