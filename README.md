@@ -99,6 +99,8 @@ https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjk
 Netflix party
 https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
 
+DarkReader
+
 
 #Vivaldi Stuff
 https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM
