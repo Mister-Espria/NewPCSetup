@@ -111,7 +111,8 @@ Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
 Another gamelauncher https://github.com/Kapiainen/Lauhdutin
 Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
 Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
-
+https://www.deviantart.com/fuckyeahlucas/art/Sundays-WORKING-Rainmeter-Suite-v1-8-633946009
+https://www.reddit.com/r/Rainmeter/comments/3076ii/protip_to_make_rainmeter_show_up_much_faster_on/
 cpu/gpu temps https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-Update-1-1-749877799
 MsiAfterbruner
 
