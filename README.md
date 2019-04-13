@@ -79,13 +79,9 @@ Surveillance Station Client
 Microsoft Office
 
 PaleMoon
-
 Xlights64
-
 bunqdesktop
-
 battle.nett
-
 pdfsam
 
 
