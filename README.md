@@ -60,29 +60,24 @@ For these Software:
 
 ## chrome / vivaldi extensions
 
-Netflix party
-Adblock Plus
-Darkreader
-Share on watch2gether
-Lastpass
+* Netflix party
+* Adblock Plus
+* Darkreader
+* Share on watch2gether
+* Lastpass
 
 
 ## Other software
-Steelseries engine 3
-
-GeForce Experience 
-
-EarTrumpet
-
-Surveillance Station Client
-
-Microsoft Office
-
-PaleMoon
-Xlights64
-bunqdesktop
-battle.nett
-pdfsam
+* Steelseries engine 3
+* GeForce Experience 
+* EarTrumpet
+* Surveillance Station Client
+* Microsoft Office
+* PaleMoon
+* Xlights64
+* bunqdesktop
+* battle.nett
+* pdfsam
 
 
 ### Other handy stuff
@@ -160,8 +155,6 @@ choco install cue
 choco install logitechgaming
 choco install teamviewer
 choco install whatsapp
-
-
 
 
 # Install Utilities
