@@ -96,7 +96,7 @@ https://www.watch2gether.com
 
 
 
-## [Vivaldi Stuff](https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM)
+## [Vivaldi Thumbs](https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM)
 
 > vivaldi thumbs 221 x 171 pixels size.
 
