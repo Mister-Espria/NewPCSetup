@@ -1,8 +1,14 @@
 # NewPCSetup
 List of programs and tutorials
 
+
+
+This setting is very useful when using chocolatey
 ## Add “Run with PowerShell (Admin)” Context Menu for .PS1 Files
 https://www.top-password.com/blog/add-run-with-powershell-admin-context-menu-for-ps1-files/
+
+
+> Chocolatey is a package manager for windows.
 
 ## Install Chocolatey
 Run this in an Powershell (Admin)
@@ -108,31 +114,41 @@ vivaldi thumbs 221 x 171 pixels size.
 * MsiAfterbruner
 
 TranslucentTaskbar
-Nexus dock
-icons: 
-* https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
-* https://www.deviantart.com/vantler/art/Lumicons-662277185
-* https://www.deviantart.com/niivu/art/Numix-Circle-For-Windows-708567015
+
+
 * https://www.youtube.com/watch?v=2M81qFqdf6k
 * https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
 * https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750
 * https://steamcommunity.com/sharedfiles/filedetails/?id=871596351
 
 
-###Want to look into
+
+
+## Nexus dock Stuff
+
+Nexus Dock https://www.winstep.net/nexus.asp
+icons: 
+* https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
+* https://www.deviantart.com/vantler/art/Lumicons-662277185
+* https://www.deviantart.com/niivu/art/Numix-Circle-For-Windows-708567015
+
+
+### Want to look into
 * https://www.invoiceninja.com/
 * https://github.com/the-paperless-project/paperless
 * https://gitlab.com/mayan-edms/mayan-edms
-
 * https://www.deviantart.com/bkp86/art/Vivaldi-Pure-Dark-Settings-and-Instructions-790793410
-
 * esprfid
-* Traefik
-
+* Traefik 
 
 ## Control Multiple PC's with one keyboard and mouse for free
 
  Mouse Without Borders: https://www.microsoft.com/en-us/download/details.aspx?id=35460
+
+
+
+
+
 
 ## SEPERATE Chocolatey apps install script
 ```
