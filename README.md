@@ -66,10 +66,10 @@ For these Software:
 
 ## chrome / vivaldi extensions
 
-* Netflix party
+* Netflix party: https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
 * Adblock Plus
 * Darkreader
-* Share on watch2gether
+* Share on watch2gether: https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg
 * Lastpass
 
 
@@ -91,12 +91,8 @@ heimdall dashboard
 
 ### Other handy Sites
 https://www.watch2gether.com
-https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg
 
-Netflix party
-https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa
 
-DarkReader
 
 
 #Vivaldi Stuff
@@ -112,10 +108,7 @@ vivaldi thumbs 221 x 171 pixels size.
 * https://www.reddit.com/r/Rainmeter/comments/3076ii/protip_to_make_rainmeter_show_up_much_faster_on/
 * cpu/gpu temps https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-Update-1-1-749877799
 * MsiAfterbruner
-
-TranslucentTaskbar
-
-
+* TranslucentTaskbar
 * https://www.youtube.com/watch?v=2M81qFqdf6k
 * https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
 * https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750
@@ -127,7 +120,8 @@ TranslucentTaskbar
 ## Nexus dock Stuff
 
 Nexus Dock https://www.winstep.net/nexus.asp
-icons: 
+
+###icons: 
 * https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
 * https://www.deviantart.com/vantler/art/Lumicons-662277185
 * https://www.deviantart.com/niivu/art/Numix-Circle-For-Windows-708567015
@@ -144,7 +138,6 @@ icons:
 ## Control Multiple PC's with one keyboard and mouse for free
 
  Mouse Without Borders: https://www.microsoft.com/en-us/download/details.aspx?id=35460
-
 
 
 
