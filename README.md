@@ -67,7 +67,7 @@ For these Software:
 
 ## chrome / vivaldi extensions
 
-* [Netflix party] (https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa)
+* [Netflix party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa)
 * Adblock Plus
 * Darkreader
 * Share on watch2gether: https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg
