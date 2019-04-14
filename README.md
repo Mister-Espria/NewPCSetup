@@ -98,37 +98,36 @@ https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM
 vivaldi thumbs 221 x 171 pixels size.
 
 ## Rainmeter Stuff
-Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
-Another gamelauncher https://github.com/Kapiainen/Lauhdutin
-Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
-Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
-https://www.deviantart.com/fuckyeahlucas/art/Sundays-WORKING-Rainmeter-Suite-v1-8-633946009
-https://www.reddit.com/r/Rainmeter/comments/3076ii/protip_to_make_rainmeter_show_up_much_faster_on/
-cpu/gpu temps https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-Update-1-1-749877799
-MsiAfterbruner
+* Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
+* Another gamelauncher https://github.com/Kapiainen/Lauhdutin
+* Volume control https://www.deviantart.com/not-finch/art/Small-Volume-Control-for-rainmeter-768403860
+* Weather https://www.deviantart.com/hiphopium/art/Elegant-Weather-721769069
+* https://www.deviantart.com/fuckyeahlucas/art/Sundays-WORKING-Rainmeter-Suite-v1-8-633946009
+* https://www.reddit.com/r/Rainmeter/comments/3076ii/protip_to_make_rainmeter_show_up_much_faster_on/
+* cpu/gpu temps https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-Update-1-1-749877799
+* MsiAfterbruner
 
 TranslucentTaskbar
 Nexus dock
 icons: 
-https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
-https://www.deviantart.com/vantler/art/Lumicons-662277185
-https://www.deviantart.com/niivu/art/Numix-Circle-For-Windows-708567015
-
-https://www.youtube.com/watch?v=2M81qFqdf6k
-https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
-https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750
-https://steamcommunity.com/sharedfiles/filedetails/?id=871596351
+* https://www.deviantart.com/sk-studios-design/art/WIN-10-Dark-Flat-Theme-Rocket-Nexus-Dock-622853953
+* https://www.deviantart.com/vantler/art/Lumicons-662277185
+* https://www.deviantart.com/niivu/art/Numix-Circle-For-Windows-708567015
+* https://www.youtube.com/watch?v=2M81qFqdf6k
+* https://www.deviantart.com/hiphopium/art/Bribrerra-783274534
+* https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750
+* https://steamcommunity.com/sharedfiles/filedetails/?id=871596351
 
 
 ###Want to look into
-https://www.invoiceninja.com/
-https://github.com/the-paperless-project/paperless
-https://gitlab.com/mayan-edms/mayan-edms
+* https://www.invoiceninja.com/
+* https://github.com/the-paperless-project/paperless
+* https://gitlab.com/mayan-edms/mayan-edms
 
-https://www.deviantart.com/bkp86/art/Vivaldi-Pure-Dark-Settings-and-Instructions-790793410
+* https://www.deviantart.com/bkp86/art/Vivaldi-Pure-Dark-Settings-and-Instructions-790793410
 
-esprfid
-Traefik
+* esprfid
+* Traefik
 
 
 ## Control Multiple PC's with one keyboard and mouse for free
