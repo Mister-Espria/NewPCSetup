@@ -8,9 +8,10 @@ This setting is very useful when using chocolatey
 https://www.top-password.com/blog/add-run-with-powershell-admin-context-menu-for-ps1-files/
 
 
-> Chocolatey is a package manager for windows.
+
 
 ## Install Chocolatey
+> Chocolatey is a package manager for windows.
 Run this in an Powershell (Admin)
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
