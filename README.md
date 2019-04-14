@@ -70,7 +70,7 @@ For these Software:
 * [Netflix party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa)
 * Adblock Plus
 * Darkreader
-* Share on watch2gether: https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg
+* [Share on watch2gether](https://chrome.google.com/webstore/detail/watch2gether/cimpffimgeipdhnhjohpbehjkcdpjolg)
 * Lastpass
 
 
@@ -98,7 +98,7 @@ https://www.watch2gether.com
 
 #Vivaldi Stuff
 https://drive.google.com/drive/folders/0BwcOkwtCjr51T0psOHJXb0M4VmM
-vivaldi thumbs 221 x 171 pixels size.
+> vivaldi thumbs 221 x 171 pixels size.
 
 ## Rainmeter Stuff
 * Awesome gamelauncher https://github.com/callmeEthan/GameHUB2
